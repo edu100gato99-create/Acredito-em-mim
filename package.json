@@ -1,0 +1,15 @@
+{
+  "name": "blaze-telegram-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "express": "4.19.2",
+    "node-telegram-bot-api": "0.66.0",
+    "socket.io-client": "2.3.1"
+  }
+}
